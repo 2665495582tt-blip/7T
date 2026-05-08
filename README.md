@@ -1,4 +1,4 @@
-# # Hello, I'm Hao Zhang
+## Hello, I'm Hao Zhang
 
 ##About Me
 Student majoring in Electrical
@@ -19,4 +19,5 @@ development
 - Build useful projects in the future
 
 ## Contact
-- GitHuh
+- GitHuh:https://github.com/2665495582tt-blip
+- Thanks for visiting my profile
